@@ -1,0 +1,36 @@
+
+.auth-window {
+    width: 300px;
+    background-color: #8B4513; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
+  }
+  
+ 
+  .auth-window h2 {
+    color: #fff; 
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+ 
+  .auth-window button {
+    background-color: #654321; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  .auth-window input[type="text"],
+  .auth-window input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc; 
+    box-sizing: border-box;
+  }
